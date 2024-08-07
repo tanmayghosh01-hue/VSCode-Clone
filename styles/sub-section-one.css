@@ -5,6 +5,7 @@
     padding: 0 140px;
     display: grid;
     place-items: center;
+    padding-bottom: 100px;
 }
 
 .hyperlink-one {

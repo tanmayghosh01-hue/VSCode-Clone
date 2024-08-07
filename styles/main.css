@@ -8,12 +8,14 @@
     font-family: "Open Sans", sans-serif;;
 }
 
+body {
+    background-color: black;
+}
+
 
 .container {
     width: 100%;
     height: 100vh;
     background-color: black;
-    
-    /* rgb(20, 20, 20); */
     color: white;
 }

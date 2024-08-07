@@ -1,0 +1,48 @@
+.sub-section-two {
+    background-color: black;
+    padding: 100px 140px;
+    display: grid;
+    grid-template-columns: 370px 1fr;
+    column-gap: 83px;
+}
+
+.heading-two-left {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.paragraph-two-left {
+    margin-top: 15px;
+    line-height: 30px;
+    color: rgb(172, 185, 204);
+    font-weight: 600;
+}
+
+.code-symbols {
+    display: grid;
+    grid-template-columns: 275px 275px 275px;
+}
+
+.right-side-image-flex img {
+    width: 100%;
+}
+
+.right-side-image-flex {
+    width: 38px;
+}
+
+.right-side-container-flex {
+    display: flex;
+    column-gap: 10px;
+    place-items: center;
+    column-gap: 12px;
+    column-gap: 13px;
+}
+
+.right-side-container-text {
+    margin-bottom: 7px;
+    color: rgb(167, 167, 167);
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: 200;
+}
