@@ -1,6 +1,6 @@
 .sub-section-two {
     background-color: black;
-    padding: 100px 140px;
+    padding: 60px 140px;
     display: grid;
     grid-template-columns: 380px 1fr;
     column-gap: 85px;
@@ -13,7 +13,7 @@
 
 .paragraph-two-left {
     margin-top: 15px;
-    line-height: 30px;
+    line-height: 25px;
     color: rgb(172, 185, 204);
     font-weight: 600;
 }

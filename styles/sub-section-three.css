@@ -1,5 +1,5 @@
 .sub-section-three {
-    padding: 100px 140px;
+    padding: 0 140px;
 }
 
 .extension-symbols {
@@ -7,8 +7,8 @@
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 20px;
     row-gap: 20px;
-    -webkit-mask-image: linear-gradient(#000,rgba(0,0,0,0.2));
-    mask-image: linear-gradient(#000,rgba(0,0,0,0.2));
+    -webkit-mask-image: linear-gradient(#000,rgba(0,0,0,0));
+    mask-image: linear-gradient(#000,rgba(0,0,0,0));
 }
 
 .extension-container {
@@ -16,9 +16,6 @@
     column-gap: 15px;
     border: 1.5px solid rgba(245, 245, 245, 0.14);
     height: 105px;
-    /* place-items: center; */
-    /* justify-content: center; */
-    /* align-items: center; */
     justify-content: center;
     padding-top: 16px;
     padding-left: 10px;
