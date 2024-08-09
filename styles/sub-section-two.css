@@ -2,8 +2,8 @@
     background-color: black;
     padding: 100px 140px;
     display: grid;
-    grid-template-columns: 370px 1fr;
-    column-gap: 83px;
+    grid-template-columns: 380px 1fr;
+    column-gap: 85px;
 }
 
 .heading-two-left {
@@ -41,8 +41,8 @@
 
 .right-side-container-text {
     margin-bottom: 7px;
-    color: rgb(167, 167, 167);
+    color: rgb(185, 202, 225);
     letter-spacing: 2px;
-    font-size: 15px;
+    font-size: 14.5px;
     font-weight: 200;
 }
