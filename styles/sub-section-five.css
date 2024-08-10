@@ -1,0 +1,20 @@
+
+.sub-section-five {
+    padding: 60px 140px;
+    display: grid;
+    justify-content: center;
+}
+
+.paragraph-five-middle {
+    color: rgb(172, 185, 204);
+    font-weight: 600;
+    width: 600px;
+    text-align: center;
+    margin-top: 6px;
+}
+
+.heading-five-middle {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+}
