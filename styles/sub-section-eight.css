@@ -1,0 +1,14 @@
+
+.sub-section-eight {
+    padding: 10px 140px;
+    color: rgb(172, 185, 204);
+    font-weight: 600;
+    font-size: 14px;
+    padding-bottom: 120px;
+}
+
+.flex-contact-details {
+    display: flex;
+    column-gap: 30px;
+    cursor: pointer;
+}

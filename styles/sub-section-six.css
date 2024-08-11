@@ -14,9 +14,9 @@
     color: rgb(172, 185, 204);
     font-weight: 600;
     font-size: 13px;
-    /* text-align:start; */
     line-height: 25px;
     height: 40px;
+    margin-bottom: 20px;
 }
 
 .features-image {
@@ -42,16 +42,16 @@
 }
 
 .features {
-    height: 200.8px;
+    height: 220.8px;
     display: grid;
     grid-template-columns: 1fr;
-    /* padding: 30px 20px 30px 26px; */
-    padding: 30px 22px;
+    padding: 20px 10px 30px 20px;
     border-radius: 10px;
     background-color: rgb(17, 17, 17);
+    border: 1px solid rgba(245, 245, 245, 0.155);
+    transition: border 0.1s;
 }
 
-/* .features div {
-    margin: 0;
-    padding: 0;
-} */
+.features:hover {
+    border: 1px solid rgba(245, 245, 245, 0.355);
+}
