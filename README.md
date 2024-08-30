@@ -1,1 +1,1 @@
-# VSCode-Clone
+# VSCode Clone Project
