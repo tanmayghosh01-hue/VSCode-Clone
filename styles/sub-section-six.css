@@ -55,3 +55,9 @@
 .features:hover {
     border: 1px solid rgba(245, 245, 245, 0.355);
 }
+
+@media (max-width: 1200px) {
+    .features-text {
+        display: none;
+    }
+}
